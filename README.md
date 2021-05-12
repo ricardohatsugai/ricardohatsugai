@@ -12,6 +12,10 @@
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/128/c_icon_132529.png" alt="angular" alt="40" height="40" style="max-width:100%;"></img>
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=ricardohatsugai&show_icons=true&count_private=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohatsugai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--*ricardohatsugai/ricardohatsugai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
