@@ -10,6 +10,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/python_vertical_logo_icon_168039.png" alt="angular" alt="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_plain_logo_icon_146610.png" alt="angular" alt="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/128/c_icon_132529.png" alt="angular" alt="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/php_icon_130857.png" alt="angular" alt="40" height="40" style="max-width:100%;"></img>
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=ricardohatsugai&show_icons=true&count_private=true&theme=dark)
 
