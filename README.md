@@ -31,6 +31,10 @@ O SGV9 representa uma nova geração do sistema de gestão comercial que desenvo
 ### Tecnologias
 
 - Delphi (Object Pascal)
+- PHP
+- Java
+- Spring Boot
+- MySQL
 - PostgreSQL
 - Docker
 - FireDAC
